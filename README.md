@@ -2,7 +2,7 @@
 
 A Terraform module to create an Amazon Web Services (AWS) Redis ElastiCache cluster.
 
-## Usage
+## Usage ##
 
 ```hcl
 resource "aws_sns_topic" "global" {
